@@ -1,5 +1,5 @@
 ---
-permalink: /About our program/
+permalink: /About/
 title: "About our program"
 ---
 
